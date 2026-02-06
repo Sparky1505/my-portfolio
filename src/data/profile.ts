@@ -6,7 +6,7 @@ export const profile = {
   links: {
     github: "https://github.com/Sparky1505",
     linkedin: "https://www.linkedin.com/in/jayasurya-pazhani",
-    resume: "/resume/Jayasurya_Pazhani_Resume.pdf"
+resume: `${import.meta.env.BASE_URL}resume/Jayasurya_Pazhani_Resume.pdf`
   },
 
 projects: [
