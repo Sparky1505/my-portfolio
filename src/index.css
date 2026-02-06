@@ -1,0 +1,33 @@
+@import "tailwindcss";
+
+/* Tailwind v4 tokens: these generate utilities like bg-background, text-ink, border-borderSubtle */
+@theme {
+  --color-background: #F6F4EF;
+  --color-surface: #FFFFFF;
+
+  --color-sage: #9FD3AE;
+  --color-sageSoft: #D9F0DF;
+
+  --color-ink: #111111;
+  --color-inkMuted: #4B4B4B;
+
+  --color-borderSubtle: #D6D1C8;
+}
+
+html {
+  font-family: "Inter", system-ui, sans-serif;
+    scroll-behavior: smooth;
+
+}
+
+body {
+  margin: 0;
+  background: var(--color-background);
+  color: var(--color-ink);
+  line-height: 1.6;
+}
+@media (prefers-reduced-motion: reduce) {
+  html {
+    scroll-behavior: auto;
+  }
+}
