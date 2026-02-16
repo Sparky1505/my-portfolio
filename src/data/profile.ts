@@ -143,6 +143,19 @@ experience: [
     ],
     tags: ["React", "JavaScript", "REST APIs"],
   },
+    {
+    company: "Cognizant",
+    role: "Junior Software Engineer",
+    dates: "May 2019 – Jun 2020",
+    summary:
+      "Early-career backend engineer contributing to Java-based systems in an Agile team.",
+    bullets: [
+      "Implemented backend features and data validations using Java and SQL.",
+      "Assisted in resolving defects and delivering enhancements across development and testing cycles.",
+      "Used JIRA to track issues and support iterative feature delivery in an Agile environment."
+    ],
+    tags: ["Java", "SQL", "Agile", "JIRA"],
+  },
 
   {
     company: "Space Zee",
@@ -158,19 +171,7 @@ experience: [
     tags: ["React", "Node.js", "Express", "MongoDB"],
   },
 
-  {
-    company: "Cognizant",
-    role: "Junior Software Engineer",
-    dates: "May 2019 – Jun 2020",
-    summary:
-      "Early-career backend engineer contributing to Java-based systems in an Agile team.",
-    bullets: [
-      "Implemented backend features and data validations using Java and SQL.",
-      "Assisted in resolving defects and delivering enhancements across development and testing cycles.",
-      "Used JIRA to track issues and support iterative feature delivery in an Agile environment."
-    ],
-    tags: ["Java", "SQL", "Agile", "JIRA"],
-  },
+
 ],
 
 

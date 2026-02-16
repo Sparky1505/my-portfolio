@@ -8,7 +8,7 @@ export default function Projects() {
     <Section
       id="projects"
       title="Projects"
-      subtitle="Top projects that represent my work"
+      subtitle="Projects that represent my work"
     >
       <div className="grid gap-6 md:grid-cols-3">
         {top.map((p) => (

@@ -25,7 +25,7 @@ export default function Hero() {
             </div>
 
             <p className="mt-6 text-lg text-inkMuted">
-               Junior full-stack engineer focused on building reliable APIs and clean, maintainable user interfaces.<br/>
+               Full-stack engineer focused on building reliable APIs and clean, maintainable user interfaces.<br/>
 React + TypeScript, Spring Boot, AWS, PostgreSQL.
             </p>
 
