@@ -74,7 +74,7 @@ projects: [
   ],
   tech: ["Java", "Object-Oriented Design", "Command Line Interface"],
   links: {
-    github: "",
+    github: "https://github.com/Sparky1505/Warzone",
     live: ""
   }
 },
