@@ -90,8 +90,8 @@ projects: [
     ],
     tech: ["JavaScript", "Chrome Extensions"],
     links: {
-      github: "",
-      live: ""
+      github: "https://github.com/Sparky1505/SipTime",
+      live: "https://chromewebstore.google.com/detail/siptime/npjkkjooolnpkpmleojnembmiaeccnml"
     }
   },
 
@@ -106,8 +106,8 @@ projects: [
     ],
     tech: ["JavaScript", "Pixi.js", "ES6"],
     links: {
-      github: "https://github.com/Sparky1505",
-      live: ""
+      github: "https://github.com/Sparky1505/slot-machine-pixijs",
+      live: "https://sparky1505.github.io/slot-machine-pixijs/"
     }
   }
 ],
