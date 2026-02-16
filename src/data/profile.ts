@@ -10,6 +10,25 @@ resume: `${import.meta.env.BASE_URL}resume/Jayasurya_Pazhani_Resume.pdf`
   },
 
 projects: [
+
+  {
+  name: "Distributed Rate Limiting & Health Monitoring Service",
+  description:
+    "Backend service designed to regulate API traffic, improve reliability, and monitor system performance under concurrent workloads.",
+  details: [
+    "Designed and implemented a rate-limiting service using Java and Spring Boot to prevent backend overload during traffic spikes in distributed environments.",
+    "Implemented a thread-safe token-bucket algorithm using concurrent data structures to ensure correctness under parallel request execution.",
+    "Integrated structured logging, health-check endpoints, and request-level metrics to improve observability and support proactive issue detection.",
+    "Conducted load testing to analyze latency, throughput, and system stability under simulated high-traffic conditions.",
+    "Deployed the service on AWS EC2 and validated configuration consistency and startup behavior to ensure operational reliability."
+  ],
+  tech: ["Java", "Spring Boot", "Concurrent Data Structures", "AWS EC2", "REST APIs", "Load Testing"],
+  links: {
+    github: "",
+    live: ""
+  }
+},
+
   {
     name: "Enterprise Order & Inventory Management System",
     description:
