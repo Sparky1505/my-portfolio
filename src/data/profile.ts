@@ -160,7 +160,7 @@ experience: [
   {
     company: "Space Zee",
     role: "Frontend Developer Intern",
-    dates: "Jun 2022 – Oct 2022",
+    dates: "Jun 2022 – Dec 2022",
     summary:
       "Frontend developer intern working on MERN stack applications for client-facing features.",
     bullets: [
